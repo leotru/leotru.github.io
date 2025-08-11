@@ -7,6 +7,7 @@ baseurl: ""
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"   # <-- opcional
 
 # Language & permalinks
 locale: "en"
@@ -17,6 +18,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-feed
+
+# >>> IMPORTANT <<<
+include:
+  - _pages                # <-- para que publique /about/, /research/, etc.
 
 # Author profile
 author:
