@@ -7,7 +7,7 @@ baseurl: ""
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"   # <-- opcional
+minimal_mistakes_skin: "default"   # <-- opcional
 
 # Language & permalinks
 locale: "en"
@@ -34,7 +34,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=_L0Cq3YAAAAJ&hl=en"
     - label: "ORCID"
-      icon: "ai ai-orcid ai-fw"
+      icon: "fas fa-id-badge"
       url: "https://orcid.org/0000-0001-9995-4135"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
