@@ -1,6 +1,58 @@
-title: Leonardo Trujillo — Research & Teaching
-description: Researcher in computational neuroscience and applied mathematics. Projects, publications, and teaching.
-url: ""  
-baseurl: ""  
-markdown: kramdown
-theme: null
+# Site settings
+title: "Leonardo TRUJILLO — Research & Teaching"
+name: "Leonardo TRUJILLO"
+description: "Computational neuroscience & applied mathematics. Projects, publications, and teaching."
+url: "https://leotru.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"  # try: default, mint, contrast, dark, neon...
+
+# Language & permalinks
+locale: "en"
+permalink: /:categories/:title/
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Author profile
+author:
+  name: "Leonardo TRUJILLO"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Computational neuroscience & applied mathematics."
+  email: "leonardo.trujillo@gmail.com"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_L0Cq3YAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "ai ai-orcid ai-fw"
+      url: "https://orcid.org/0000-0001-9995-4135"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leotru"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.inria.fr/letrujil"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/trujilloleonardo/"
+
+# Defaults for pages/posts
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true

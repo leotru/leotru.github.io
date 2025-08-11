@@ -1,10 +1,14 @@
-# Leonardo Trujillo — Research & Teaching
+# Minimal Mistakes starter — Leonardo TRUJILLO
 
-This repository contains the source of my personal web page hosted on **GitHub Pages**.
+Ready-to-publish Minimal Mistakes site for GitHub Pages.
 
-## How to publish
+## Publish
+1. Create a public repo named `leotru.github.io` on GitHub.
+2. Upload these files to the root of the `main` branch.
+3. Go to **Settings → Pages** → Source: `main / (root)`.
+4. Visit `https://leotru.github.io`.
 
-1. Create a repository named `your-username.github.io` in your GitHub account.
-2. Upload all the files of this project to the `main` branch.
-3. Go to **Settings → Pages** and ensure the source is `main / (root)`.
-4. Your site will be available at `https://your-username.github.io` in a couple of minutes.
+## Customize
+- In `_config.yml`, adjust `minimal_mistakes_skin` and update any links.
+- Replace `assets/images/avatar.jpg` (512×512) and `assets/images/hero.jpg` (1500×600).
+- Edit pages in `_pages/`.
