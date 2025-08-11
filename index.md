@@ -10,7 +10,7 @@ header:
       url: /publications/
     - label: "Teaching"
       url: /teaching/
-excerpt: "Computational neuroscience & applied mathematics. Projects, publications, and teaching."
+excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
 ---
 
 ## Highlights
