@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){const b=document.querySelector('.hamburger');const m=document.querySelector('.nav ul');if(b&&m){b.addEventListener('click',()=>m.classList.toggle('open'));}});
