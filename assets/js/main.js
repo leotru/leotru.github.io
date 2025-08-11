@@ -1,1 +1,7 @@
-document.addEventListener('DOMContentLoaded',function(){const b=document.querySelector('.hamburger');const m=document.querySelector('.nav ul');if(b&&m){b.addEventListener('click',()=>m.classList.toggle('open'));}});
+document.addEventListener('DOMContentLoaded', function(){
+  const btn = document.querySelector('.hamburger');
+  const menu = document.querySelector('.nav ul');
+  if(btn && menu){
+    btn.addEventListener('click', ()=> menu.classList.toggle('open'));
+  }
+});
