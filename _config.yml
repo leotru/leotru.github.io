@@ -1,7 +1,7 @@
 # Site settings
 title: "Mechanistic modelling of biological systems"
 name: "Leonardo TRUJILLO"
-description: "Associate Professor (MCU) in Applied Mathematics | INSA Lyon"
+description: "Associate Professor in Applied Mathematics"
 url: "https://leotru.github.io"
 baseurl: ""
 
@@ -27,7 +27,7 @@ include:
 author:
   name: "Leonardo TRUJILLO"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Associate Professor (MCU) in Applied Mathematics | INSA Lyon"
+  bio: "Associate Professor in Applied Mathematics"
   email: "leonardo.trujillo@gmail.com"
   links:
     - label: "Google Scholar"
