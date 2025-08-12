@@ -11,7 +11,6 @@ header:
     - label: "Research"
       url: /research/
 excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
-laboratoire MAP
 ---
 
 ## Highlights
