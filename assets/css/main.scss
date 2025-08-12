@@ -7,3 +7,12 @@
 
 /* Tus overrides al final */
 body { font-size: 0.80rem; line-height: 1.65; }
+
+<style>
+  .site-footer .disclaimer{
+    margin-top: .75rem;
+    font-size: .9rem;      /* un poco más pequeño */
+    line-height: 1.4;
+    opacity: .8;           /* tono más suave */
+  }
+</style>
