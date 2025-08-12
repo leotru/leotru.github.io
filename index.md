@@ -6,11 +6,12 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/hero.jpg
   actions:
-    - label: "Publications"
-      url: /publications/
     - label: "Teaching"
       url: /teaching/
+    - label: "Research"
+      url: /research/
 excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
+laboratoire MAP
 ---
 
 ## Highlights
