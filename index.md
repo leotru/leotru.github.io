@@ -12,6 +12,8 @@ header:
       url: /research/
 excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
 ---
+### Applied Mathematics of Complex and Adaptive Living Matter
+ *Physics-inspired mathematical modeling to uncover the principles governing living systems under extreme conditions*
 
 ## Highlights
 - Ongoing research on adaptive neural networks and synaptic plasticity.
