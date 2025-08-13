@@ -13,8 +13,8 @@ header:
 excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
 ---
 
-# Hello, world! 
-I am Leo Trujillo, an Associate Professor at INSA Lyon in the Department of Biotechnology and Bioinformatics. I conduct my research within the M2E Team (Microbiology of Extreme Environments) at the Lab. MAP (Microbiology, Adaptation and Pathogenesis) – UMR-CNRS 5240.
+## Hello, world! 
+I am Leo Trujillo, an Associate Professor at [INSA Lyon](https://www.insa-lyon.fr/fr) in the [Department of Biotechnology and bioinformatics](https://biotech-bioinfo.insa-lyon.fr/fr). I conduct my research within the [M2E Team (Microbiology of Extreme Environments)](https://map.insa-lyon.fr/fr/content/microbiologie-environnements-extremes) at the [Laboratory of Microbiology, Adaptation and Pathogenesis (MAP) – UMR-5240](https://map.insa-lyon.fr/fr).
 
 ## Highlights
 - Ongoing research on adaptive neural networks and synaptic plasticity.
