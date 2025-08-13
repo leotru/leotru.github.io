@@ -7,10 +7,10 @@ layout: single
 > 🥇 *Former des ingénieurs pour penser, modéliser et innover dans le vivant.*
 
 J’enseigne dans le programme **Biotechnologie et Bioinformatique** à l’INSA Lyon, avec un axe prioritaire sur:
-	-	📊 Les mathématiques pour la modélisation biologique
-	-	🔄 Les systèmes dynamiques
-	-	🧬 Les modèles mécanistes des systèmes biologiques
-	-	💻 Les méthodes de simulation numérique (EDO / EDP)
+-	📊 Les mathématiques pour la modélisation biologique
+-	🔄 Les systèmes dynamiques
+-	🧬 Les modèles mécanistes des systèmes biologiques
+-	💻 Les méthodes de simulation numérique (EDO / EDP)
 
 Mon approche établit un lien étroit entre la **théorie mathématique** et les **applications pratiques**, en travaillant fréquemment sur des données biologiques réelles dans des domaines variés: *écologie, pharmacologie, épidémiologie, immunologie, oncologie, neurosciences, entre autres*.
 
