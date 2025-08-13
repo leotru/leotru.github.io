@@ -10,7 +10,7 @@ header:
       url: /teaching/
     - label: "Research"
       url: /research/
-excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
+excerpt: "enseignant-chercheur en mathématiques appliquées et applications des mathématiques"
 ---
 
 ## Hello, world! 
