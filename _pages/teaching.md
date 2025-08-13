@@ -6,18 +6,16 @@ layout: single
 ### Systèmes dynamiques pour la biologie 
 > 🥇 *Former des ingénieurs pour penser, modéliser et innover dans le vivant.*
 
-I teach in the **Biotechnology and Bioinformatics** program at **INSA Lyon**, focusing on:
+J’enseigne dans le programme **Biotechnologie et Bioinformatique** à l’INSA Lyon, avec un axe prioritaire sur:
+	-	📊 Les mathématiques pour la modélisation biologique
+	-	🔄 Les systèmes dynamiques
+	-	🧬 Les modèles mécanistes des systèmes biologiques
+	-	💻 Les méthodes de simulation numérique (EDO / EDP)
 
-- 📊 **Mathematics for biological modeling**  
-- 🔄 **Dynamical systems**  
-- 🧬 **Mechanistic models of biological systems**  
-- 💻 **Numerical simulation methods** (ODEs / PDEs)  
-- 🎯 **Optimization & parameter identification**
+Mon approche établit un lien étroit entre la **théorie mathématique** et les **applications pratiques**, en travaillant fréquemment sur des données biologiques réelles dans des domaines variés: *écologie, pharmacologie, épidémiologie, immunologie, oncologie, neurosciences, entre autres*.
 
-My approach connects **mathematical theory** with **practical applications**, often working with real biological data in diverse fields: *ecology, pharmacology, epidemiology, immunology, oncology, neuroscience,* and more.
-
-I also contribute to **quantitative methods teaching** in collaboration with colleagues in *mathematics, computer science, statistics, and bioinformatics*.  
-In the coming years, I will coordinate the mathematics courses for the program, fostering **pedagogical innovation** at the interface of biology and mathematics.
+Je contribue également à l’enseignement des **méthodes quantitatives**, en collaboration avec mes collègues en *mathématiques, informatique et statistiques*.
+Dans les années à venir, je prendrai la coordination des enseignements de mathématiques du programme, en développant des **innovations pédagogiques** à l’interface entre biologie et mathématiques.
 
 ---
 
