@@ -29,6 +29,7 @@ author:
   avatar: "/assets/images/avatar.jpg"
   bio: "Associate Professor in Applied Mathematics"
   email: "leonardo.trujillo@gmail.com"
+  location: "Lyon, France"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
