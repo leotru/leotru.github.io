@@ -3,9 +3,8 @@ title: "Teaching"
 permalink: /teaching/
 layout: single
 ---
-
-## 🧮 Teaching
-### Systèmes dynamiques pour la biologie: *Former des ingénieurs pour penser, modéliser et innover dans le vivant*
+### Systèmes dynamiques pour la biologie 
+> 🥇 *Former des ingénieurs pour penser, modéliser et innover dans le vivant.*
 
 I teach in the **Biotechnology and Bioinformatics** program at **INSA Lyon**, focusing on:
 
@@ -37,3 +36,6 @@ In the coming years, I will coordinate the mathematics courses for the program, 
    *Développer l’esprit critique et l’intuition scientifique. Comprendre que la modélisation est un processus itératif.*
 
 ---
+
+
+
