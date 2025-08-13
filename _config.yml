@@ -45,6 +45,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/trujilloleonardo/"
+    - label: "X"
+      icon: "fab fa-x-twitter"
+      url: "https://x.com/entropiacero"
 
 # Defaults for pages/posts
 defaults:
