@@ -12,8 +12,9 @@ header:
       url: /research/
 excerpt: "Associate Professor in Applied Mathematics, INSA Lyon"
 ---
-### Applied Mathematics of Complex and Adaptive Living Matter
- *Physics-inspired mathematical modeling to uncover the principles governing living systems under extreme conditions*
+
+# Hello, world! 
+I am Leo Trujillo, an Associate Professor at INSA Lyon in the Department of Biotechnology and Bioinformatics. I conduct my research within the M2E Team (Microbiology of Extreme Environments) at the Lab. MAP (Microbiology, Adaptation and Pathogenesis) – UMR-CNRS 5240.
 
 ## Highlights
 - Ongoing research on adaptive neural networks and synaptic plasticity.
