@@ -18,4 +18,9 @@ I am Leo Trujillo, an Associate Professor at the [Institute national des science
 🎓 I teach mathematical modeling in the [Department of Biotechnology and bioinformatics](https://biotech-bioinfo.insa-lyon.fr/fr). 💻 📚 ✍🏻 I conduct my research within the [M2E Team (Microbiology of Extreme Environments)](https://map.insa-lyon.fr/fr/content/microbiologie-environnements-extremes) at the [Laboratory of Microbiology, Adaptation and Pathogenesis (MAP) – UMR-5240](https://map.insa-lyon.fr/fr).
 
 
-## ABC
+## Highlights
+- New research project on living matter in extreme environments.
+- Starting a new project on mechanistic modelling of biological systems. 
+- Ongoing research on adaptive neural networks and synaptic plasticity.
+- Mathematical physics methods for next-generation neural mass models.
+- Open-source code and course materials.
