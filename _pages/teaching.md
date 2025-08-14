@@ -2,12 +2,10 @@
 title: "Teaching"
 permalink: /teaching/
 layout: single
+toc: true
+toc_sticky: true   # <- índice pegado en la barra lateral
+toc_label: "Sommaire"
 ---
-
-## 📚 Table of Contents
-- [🦋 Systèmes dynamiques pour la biologie](#-systèmes-dynamiques-pour-la-biologie)
-- [🎓 Mon approche pédagogique – à la Polya (*How to Solve It*)](#-mon-approche-pédagogique--à-la-polya-how-to-solve-it)
-- [⚠️ Mon avis sur l’utilisation de l’Intelligence Artificielle](#-mon-avis-sur-lutilisation-de-lintelligence-artificielle)
 
 
 ### 🦋 Systèmes dynamiques pour la biologie 
