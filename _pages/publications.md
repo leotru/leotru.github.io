@@ -228,6 +228,9 @@ Springer-Verlag Berlin (2011) — ISBN 3642179576
 [https://doi.org/10.1016/j.chaos.2003.12.006](https://doi.org/10.1016/j.chaos.2003.12.006)
 
 ---
+📖 **PhD Thesis:**  
+[*Sur le problème de la ségrégation des milieux granulaires vibrés*](https://theses.hal.science/tel-03892900/)  
+Université Pierre et Marie Curie (Paris VI) (2003). 
 
 📄 **Segregation in a fluidized granular mixture: Competition between buoyancy and geometric forces**  
 *L. Trujillo, M. Alam, H.J. Herrmann*  
@@ -260,7 +263,17 @@ Springer-Verlag Berlin (2011) — ISBN 3642179576
 *International Journal of Bifurcation and Chaos* 10, 1867–1874 (2000)  
 [https://doi.org/10.1142/S0218127400001134](https://doi.org/10.1142/S0218127400001134)
 
+---
+📄 **Complexity in DNA genetic code**  
+*M. Martín-Landrove, L. Trujillo, J. González*  
+*Bulletin of the American Physical Society* 44-1, 149 (1999) 
+
+
+📄 **A new nonlinear DNA model**  
+*L. Trujillo, M. Martín-Landrove, J. González*  
+*Bulletin of the American Physical Society* 44-1, 149 (1999) 
 
 
 
-📖 **PhD Thesis:** [*Sur le problème de la ségrégation des milieux granulaires vibrés*](https://theses.hal.science/tel-03892900/). Université Pierre et Marie Curie (Paris VI) (2003). 
+
+
