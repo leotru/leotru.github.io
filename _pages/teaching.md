@@ -40,21 +40,21 @@ Dans les années à venir, je prendrai la coordination des enseignements de math
 ---
 
 ### ⚠️ Mon avis sur l’utilisation de l’Intelligence Artificielle
->
-> Je considère que la curiosité, la créativité et l’usage réfléchi des nouvelles technologies —  
-> y compris l’intelligence artificielle générative (IA) — peuvent enrichir nos processus  
-> d’apprentissage et de recherche.
->
-> 💡 Vous pouvez utiliser l’IA pour :
-> - Explorer des idées et formuler des hypothèses.
-> - Améliorer la rédaction et la clarté de vos textes.
-> - Déboguer et documenter votre code.
->
-> ✅ Mes conditions sont simples :
-> 1. Indiquez l’outil utilisé et la date d’utilisation.
-> 2. Assurez-vous de **comprendre** et de **pouvoir expliquer** tout ce que vous présentez.
-> 3. Utilisez l’IA comme un tremplin pour votre réflexion, pas comme un substitut.
->
-> 🚀 **Mon objectif** : que l’IA soit un levier pour mieux comprendre, modéliser  
-> et résoudre des problèmes complexes en biotechnologie et bioinformatique.
+
+ Je considère que la curiosité, la créativité et l’usage réfléchi des nouvelles technologies —  
+ y compris l’intelligence artificielle générative (IA) — peuvent enrichir nos processus  
+ d’apprentissage et de recherche.
+
+ 💡 Vous pouvez utiliser l’IA pour :
+ - Explorer des idées et formuler des hypothèses.
+ - Améliorer la rédaction et la clarté de vos textes.
+ - Déboguer et documenter votre code.
+
+ ✅ Mes conditions sont simples :
+ 1. Indiquez l’outil utilisé et la date d’utilisation.
+ 2. Assurez-vous de **comprendre** et de **pouvoir expliquer** tout ce que vous présentez.
+ 3. Utilisez l’IA comme un tremplin pour votre réflexion, pas comme un substitut.
+
+ 🚀 **Mon objectif** : que l’IA soit un levier pour mieux comprendre, modéliser  
+ et résoudre des problèmes complexes en biotechnologie et bioinformatique.
 
