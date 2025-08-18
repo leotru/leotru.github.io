@@ -5,10 +5,34 @@ layout: single
 ---
 
 
-**Leonardo TRUJILLO** is a researcher working at the intersection of computational neuroscience and applied mathematics. This site presents ongoing research projects, selected publications, and teaching activities.
+⸻
+
+👤 About Me
+
+I’m **Leo Trujillo**, a Venezuelan scientist trained as a theoretical physicist at the [Universidad Central de Venezuela (UCV)](https://es.wikipedia.org/wiki/Universidad_Central_de_Venezuela). I earned my PhD at the [École Supérieure de Physique et Chimie Industrielles de la Ville de Paris (ESPCI)](https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_physique_et_de_chimie_industrielles_de_la_ville_de_Paris) and [Université Pierre et Marie Curie (Paris VI)](https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University) (now [Sorbonne Université](https://fr.wikipedia.org/wiki/Sorbonne_Universit%C3%A9)), under the supervision of [Prof. Hans J. Herrmann](https://de.wikipedia.org/wiki/Hans_J%C3%BCrgen_Herrmann). Later, I also pursued postgraduate studies in psychology at Simón Bolívar University (USB).
+
+My early career took me to the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://en.wikipedia.org/wiki/International_Centre_for_Theoretical_Physics) in Trieste, Italy, as an associate researcher. For 15 years, I worked at the [Instituto Venezolano de Investigaciones Científicas (IVIC)](https://es.wikipedia.org/wiki/Instituto_Venezolano_de_Investigaciones_Cient%C3%ADficas), where I directed the Laboratory of Fluid and Plasma Physics and served as Deputy Head of the Physics Center. Sadly, the severe degradation of IVIC eventually forced me to resign, as conditions to continue doing science in Venezuela had vanished [[1](https://en.wikipedia.org/wiki/Crisis_in_Venezuela),[2](https://www.nature.com/articles/d41586-024-03144-4),[3](https://www.science.org/content/article/yet-another-term-sight-venezuela-s-maduro-scientists-hold-little-hope-their-future)].
+
+I have been a visiting professor in France, Spain, the Netherlands, Germany, and Mexico. At IVIC, I coordinated the graduate program in physics, while also teaching at UCV’s postgraduate program. Over the years, I have mentored numerous PhD, master’s, and undergraduate students in science and engineering. Beyond the classroom, I am deeply committed to science communication: I have given public talks, participated in radio and TV interviews, and contributed to educational content for television. Notably, I took part in the award-winning TV program [Cerefritos](https://www.youtube.com/watch?v=YJ80HrzyMoo), which received recognition from the [Public Television Stations of Latin America (TAL Awards)](https://www.youtube.com/watch?v=NSV0Ey3jiHM).
+
+In 2019, I moved to France—exile might be a better word—where I became a Visiting Professor at [INSA Lyon](https://fr.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es_de_Lyon) ([LIRIS lab](https://fr.wikipedia.org/wiki/Laboratoire_d%27informatique_en_image_et_syst%C3%A8mes_d%27information)). Since then, I have collaborated with the [Beagle team](https://team.inria.fr/beagle/) and later joined Inria Lyon as an associate researcher. As of 2024, I was part of the [AIstroSight Team](https://team.inria.fr/aistrosight/) at the [Inria](https://fr.wikipedia.org/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique) Center in Lyon, working with [Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage/) on theoretical models of neuronal plasticity, bringing in my background in mathematical physics.
+
+📖 My academic motto is simple: “Per investigationem disce”
+
+⸻
+
+🎶 Beyond Academia
+
+Outside the lab, I’m a lifelong drummer, passionate about rhythm and improvisation. I also explore chromatic composition, and I’m obsessed with the clear expression of ideas—whether spoken, written, or played on an instrument.
+
+Pero, por encima de todo, los papeles más importantes en mi vida son ser hijo de Ligia, padre de Santiago y Matías, y ahora, construir una nueva familia junto a Natalia y su hijo Andrés. Vivo según el lema de los Mosqueteros: “Un pour tous, tous pour un.”
+
+✨ Una de mis filosofías de vida: “Los sueños son la creación del soñador.”
+
+⸻
 
 
-**Erdős number = 4** 
+** My Erdős number is 4** 
 - [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) = 0
 - [Andrew Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko) = 1
 - [Eric Goles](https://en.wikipedia.org/wiki/Eric_Goles) = 2
