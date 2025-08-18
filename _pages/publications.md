@@ -4,6 +4,17 @@ permalink: /publications/
 layout: single
 ---
 
+---
+> ### 📄 Access to Articles
+>
+> For publications in **Open Access**, a direct PDF link is provided.  
+> For other articles, full texts cannot be made publicly available due to copyright restrictions.  
+>
+> 👉 However, I will be happy to share them for personal and academic use:  
+> please feel free to contact me by email if you wish to obtain a PDF copy of any of my papers.
+
+---
+
 📄 **Particle-Based Framework for Continuous Fields of Coupled Phase Oscillators: Exploring Spontaneous Local Synchronization**  
 *H. Berry, J.-M. Rye, L. Trujillo*  
 [arXiv:2507.04732](https://arxiv.org/abs/2507.04732) 🔓 (Open Access)
