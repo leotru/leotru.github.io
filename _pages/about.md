@@ -32,7 +32,7 @@ Pero, por encima de todo, los papeles más importantes en mi vida son ser hijo d
 ⸻
 
 
-** My Erdős number is 4** 
+**My Erdős number is 4** 
 - [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) = 0
 - [Andrew Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko) = 1
 - [Eric Goles](https://en.wikipedia.org/wiki/Eric_Goles) = 2
