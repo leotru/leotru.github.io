@@ -5,13 +5,7 @@ layout: single
 ---
 
 ---
-> ### 📄 Access to Articles
->
-> For publications in **Open Access**, a direct PDF link is provided.  
-> For other articles, full texts cannot be made publicly available due to copyright restrictions.  
->
-> 👉 However, I will be happy to share them for personal and academic use:  
-> please feel free to contact me by email if you wish to obtain a PDF copy of any of my papers.
+*For publications in **Open Access**, a direct PDF link is provided. 👉 However, for other articles, I will be happy to share them for personal and academic use: please feel free to contact me by email if you wish to obtain a PDF copy of any of my publications.*
 
 ---
 
