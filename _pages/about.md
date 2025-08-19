@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "Chez Léo"
 permalink: /about/
 layout: single
 ---
 
-
+# Bienvenue chez moi  
 ⸻
 
 👤 Who am I?
