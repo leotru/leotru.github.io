@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-# Bienvenue chez moi  
+## Soyez les bienvenus
 ⸻
 
 👤 Who am I?
