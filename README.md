@@ -8,6 +8,15 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [Minimal Mistake
 
 ---
 
+## License
+
+- The **website code** is distributed under the [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE).  
+- The **content of this site** (texts, blog posts, and images, unless otherwise stated) is licensed under a [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/).
+
+
+
+---
+
 ## ✨ About
 
 I am **Leonardo Trujillo**, a physicist and researcher in **applied mathematics and complex systems**, currently based in Lyon, France.  
