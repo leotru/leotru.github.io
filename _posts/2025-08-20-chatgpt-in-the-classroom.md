@@ -5,6 +5,9 @@ categories: [News & Views, Education, AI]
 tags: [ChatGPT, Education, AI, Pedagogy, Meta-analysis]
 layout: single
 author_profile: true
+header:
+  image: /assets/images/ChatGPT-in-the-classroom.png
+  caption: "🤖 ChatGPT in the classroom "
 ---
 
 Since its release in 2022, ChatGPT has sparked intense debate about its role in education. Is it an ally in building knowledge, or a shortcut that undermines cognitive effort? In a recent article published in *Computers & Education*, Deng and colleagues present the first systematic review and meta-analysis of ChatGPT-based educational interventions. Their conclusion is clear: the tool can improve academic performance and foster motivation, but caution is warranted due to methodological limitations and the novelty effect.
