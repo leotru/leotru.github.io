@@ -4,9 +4,6 @@ date: 2025-08-18
 categories: [Modeling, Biotechnology, Bioinformatics]
 tags: [mathematics, systems biology, modeling, bioinformatics, biotechnology]
 excerpt: "From molecules to ecosystems, mathematical modeling is shaping the future of biotechnology and bioinformatics. Here’s why it matters, and how we bring equations to life in the lab."
-header:
-  image: /assets/images/modeling-bio.jpg
-  caption: "📊 Mathematics & the living world"
 ---
 
 When we think of biotechnology or bioinformatics, the first images that often come to mind are DNA sequences, cell cultures, or high-throughput sequencing machines. But behind these tools lies an essential and often invisible layer: **mathematical modeling**.  
