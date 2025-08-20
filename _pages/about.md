@@ -35,9 +35,10 @@ Pero, por encima de todo, los papeles más importantes en mi vida son ser hijo d
 
 ✨ Una de mis filosofías de vida: “Los sueños son la creación del soñador.”
 
+
 ⸻
 
-pronouns: *he/him*
+One of my favorite scientific articles is **Exponents for excluded volume problem as derived by Wilson method**. [Phys. Lett. A 38, 339 (1972)](http://dx.doi.org/10.1016/0375-9601(72)90149-1), by [Pierre-Gilles de Gennes](https://fr.wikipedia.org/wiki/Pierre-Gilles_de_Gennes), on the famous [“n=0 trick”](https://doi.org/10.1142/9789814280648_0001). In just a little over one page, he manages to connect polymer statistics with the critical theories of magnetic systems, showing that a self-avoiding polymer chain could be described using the tools of [statistical field physics](https://en.wikipedia.org/wiki/Statistical_field_theory) and the [renormalization group](https://en.wikipedia.org/wiki/Renormalization_group). What fascinates me is the simplicity with which de Gennes builds an unexpected conceptual bridge, where the *messy* and seemingly disordered world of polymers is illuminated by the mathematical elegance of [spin models](https://en.wikipedia.org/wiki/Spin_model). That ability to condense results of enormous theoretical sophistication into a clear presentation is, for me, a true example of what it means to do physics with depth, imagination, and at the same time with an open spirit toward experimentalists.
 
 ⸻
 
