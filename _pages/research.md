@@ -2,9 +2,12 @@
 title: "Research"
 permalink: /research/
 layout: single
+toc: true
+toc_sticky: true   # <- índice pegado en la barra lateral
+toc_label: "Sommaire"
 ---
 
-##  Ongoing research 🔬
+#  Ongoing research 🔬
 
 ### 🦠 Modelling microbiological adaptation in extreme environments
 
@@ -22,7 +25,7 @@ This integrative framework is designed to bridge experimental observations from 
 
 🌊 **Dynamical systems.** Deterministic chaos. Random dynamical systems. Statistical independence in chaotic dynamics, ergodicity and mixing. Iterated function systems.
 
-## Some past projects
+# Some past projects
 📈 **Adaptive dynamics.** Mathematical and computational modelling of chromosomal rearrangements (inversion mutations in particular) to simulate adaptive walks on fitness landscapes. Graph theoretical representation of accessible mutants to elucidate new evolutionary paths in models of molecular evolution. Time-scales in adaptive dynamics to understand stasis periods punctuated by bursts of fitness as observed in in silico long-term evolution experiments (and perhaps contribute to the debate about gradualism vs punctuated equilibrium). Analysis of population dynamics equations with additional terms describing mutations.
 
 ⚛️ **Theoretical and computational modelling of granular matter.** Kinetic theory of inelastic dense gases (Boltzmann equation; Boltzmann–Enskog approximation; Chapman–Enskog method). Hydrodynamics of granular media. Mathematical models of size segregation in vibro-fluidized granular systems. Elasticity and elastodynamics of granular packings. Elastic wave propagation in granular and heterogeneous materials. Coarse-graining method. Numerical simulations using the discrete element method (DEM).
