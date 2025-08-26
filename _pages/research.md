@@ -7,9 +7,11 @@ toc_sticky: true   # <- índice pegado en la barra lateral
 toc_label: "Sommaire"
 ---
 
+At a broad level, my research orbits around the development of mechanistic models in biology within the framework of complex systems. It builds on strong foundations in dynamical systems, statistical mechanics, and the theory of ordinary and partial differential equations, providing tools to capture and analyze emergent behaviors across scales.
+
 #  Ongoing research 🔬
 
-### 🦠 Modelling microbiological adaptation in extreme environments
+## 🦠 Modelling microbiological adaptation in extreme environments
 
 My research focuses on the development of mechanistic mathematical models to understand how archaeal cells adapt to extreme environments. The project combines membrane biophysics with intracellular regulatory dynamics, using tools from nonlinear dynamical systems and partial differential equations to capture processes across spatial and temporal scales.
 
@@ -19,11 +21,15 @@ A central challenge lies in formalizing the dynamical interplay between membrane
 
 This integrative framework is designed to bridge experimental observations from the M2E team with predictive modeling, ultimately enabling a quantitative exploration of living matter under extreme conditions.
 
-### External collaborations
+# External collaborations
 
-🧠 **Adaptive neural networks.** A theoretical neuroscience project focused on studying neuronal plasticity models through analytical tools from mathematical physics. The goal is to explore how neurons change and reorganise in response to learning and experience. By employing advanced mathematical physics techniques, this project seeks to gain a deeper understanding of neuronal plasticity processes, ultimately aiming to derive a learning rule that incorporates key characteristics for simulating synaptic activity in a spiking neural network model. The specific objective is to model the connectivity structure of the dorsal striatum, allowing the characterisation of its dynamics and responses to inputs associated with fast learning.
+## Adaptive neural networks 🧠
 
-🌊 **Dynamical systems.** Deterministic chaos. Random dynamical systems. Statistical independence in chaotic dynamics, ergodicity and mixing. Iterated function systems.
+A theoretical neuroscience project focused on studying neuronal plasticity models through analytical tools from mathematical physics. The goal is to explore how neurons change and reorganise in response to learning and experience. By employing advanced mathematical physics techniques, this project seeks to gain a deeper understanding of neuronal plasticity processes, ultimately aiming to derive a learning rule that incorporates key characteristics for simulating synaptic activity in a spiking neural network model. The specific objective is to model the connectivity structure of the dorsal striatum, allowing the characterisation of its dynamics and responses to inputs associated with fast learning.
+
+## Dynamical systems 🌊
+
+Deterministic chaos. Random dynamical systems. Statistical independence in chaotic dynamics, ergodicity and mixing. Iterated function systems.
 
 # Some past projects
 📈 **Adaptive dynamics.** Mathematical and computational modelling of chromosomal rearrangements (inversion mutations in particular) to simulate adaptive walks on fitness landscapes. Graph theoretical representation of accessible mutants to elucidate new evolutionary paths in models of molecular evolution. Time-scales in adaptive dynamics to understand stasis periods punctuated by bursts of fitness as observed in in silico long-term evolution experiments (and perhaps contribute to the debate about gradualism vs punctuated equilibrium). Analysis of population dynamics equations with additional terms describing mutations.
