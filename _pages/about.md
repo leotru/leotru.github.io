@@ -22,6 +22,7 @@ I’m **Leo Trujillo**, a Venezuelan 🇻🇪 scientist trained as a theoretical
 🔆 From September 2025, I am an Associate Professor at the [Institute national des sciences appliquées de Lyon (INSA)](https://www.insa-lyon.fr/fr).
 I teach mathematical modeling in the [Department of Biotechnology and bioinformatics](https://biotech-bioinfo.insa-lyon.fr/fr), and I conduct my research within the [M2E Team (Microbiology of Extreme Environments)](https://map.insa-lyon.fr/fr/content/microbiologie-environnements-extremes) at the [Laboratory of Microbiology, Adaptation and Pathogenesis (MAP) – UMR-5240](https://map.insa-lyon.fr/fr).
 
+I also remain associated with the [AIstroSight Team](https://team.inria.fr/aistrosight/)  as a *collaborateur extérieur*.
 
 📖 My academic motto is simple: “Per investigationem disce”
 
