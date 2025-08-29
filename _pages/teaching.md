@@ -6,7 +6,10 @@ toc: true
 toc_sticky: true   # <- índice pegado en la barra lateral
 toc_label: "Sommaire"
 ---
-
+# 3ᵉannée
+[nom-du-cours]{/teaching/yearX/2025-2026/nom-du-cours}
+# 4ᵉannée
+# 5ᵉannée
 
 ### 🦋 Systèmes dynamiques pour la biologie 
   
