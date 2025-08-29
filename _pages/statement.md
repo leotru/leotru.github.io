@@ -1,10 +1,10 @@
 ---
-title: "My statement"
+title: "My statement on Diversity, Inclusion, and Latin American Identity"
 permalink: /statement/
 layout: single
 ---
 
-# ... on Diversity, Inclusion, and Latin American Identity 
+
 
 Science has always been, to me, a universal language—one that can be spoken with different accents, rhythms, and stories. My own story carries the voice of Latin America, with all its contradictions, struggles, and creativity. Preserving that identity is not about separating myself from others, but about enriching the collective conversation that happens when people from different cultures sit together around the same table of knowledge.
 
