@@ -24,3 +24,6 @@ I am Leo Trujillo, an Associate Professor at the [Institute national des science
 - Ongoing research on adaptive neural networks and synaptic plasticity.
 - Mathematical physics methods for next-generation neural mass models.
 - Open-source code and course materials.
+
+## My roots as a contribution
+*I see science as a universal language enriched by diverse voices. My Latin American identity is part of that richness, and I believe multiculturality is not just coexistence—it is the spark that makes creativity possible*. [Read my full statement →](/statement/)
