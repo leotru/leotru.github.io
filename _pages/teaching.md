@@ -58,3 +58,12 @@ Dans les années à venir, je prendrai la coordination des enseignements de math
  🚀 **Mon objectif** : que l’IA soit un levier pour mieux comprendre, modéliser  
  et résoudre des problèmes complexes en biotechnologie et bioinformatique.
 
+### 📊 Bioinformatique & Biologie computationnelle
+
+La distinction entre bioinformatique et biologie computationnelle est subtile mais essentielle.
+### 🧬+💻 Bioinformatique: 
+centrée sur le développement d’outils informatiques, d’algorithmes et de bases de données pour gérer et analyser de grands volumes de données biologiques, notamment issus des sciences omiques (génomique, transcriptomique, protéomique). Elle fournit l’infrastructure numérique pour le stockage, le traitement et l’exploration des données.
+### 🔬+⚙️ Biologie computationnelle: 
+davantage orientée vers le modélisation mathématique et la simulation des processus biologiques. Elle vise à comprendre les mécanismes sous-jacents des systèmes vivants à travers des équations, des modèles dynamiques et des approches mécanistes.
+
+**Mon rôle s’inscrit dans cette seconde perspective: développer et enseigner des modèles computationnels permettant de relier données expérimentales, hypothèses mécanistes et prédictions quantitatives, à l’interface entre les mathématiques appliquées, la physique et la biologie moderne.**
