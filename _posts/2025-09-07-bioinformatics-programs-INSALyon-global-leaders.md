@@ -1,8 +1,8 @@
 ---
 title: "Comparing Biotechnology & Bioinformatics Programs: INSA Lyon vs. Global Leaders"
 date: 2025-09-07
-categories: [News & Views, Education, Biotechnology, Bioinformatics]
-tags: [Bioinformatics,Biotechnology,ComputationalBiology,HigherEducation,EngineeringEducation,INSA-Lyon,BiotechIndustry,DataScience]
+categories: ["News & Views", "Education", "Biotechnology", "Bioinformatics"]
+tags: ["Bioinformatics", "Biotechnology", "ComputationalBiology", "HigherEducation", "EngineeringEducation", "INSA-Lyon", "BiotechIndustry", "DataScience"]
 excerpt: "The INSA Lyon BIM program offers a fast track into biotechnology and bioinformatics. With its integrated five-year curriculum, project-based learning, and strong industry ties, graduates are ready to pursue either academic research (PhD) or immediate careers in pharma, biotech, and data science."
 ---
 
