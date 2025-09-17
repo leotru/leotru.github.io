@@ -8,8 +8,9 @@ toc_label: "Sommaire"
 ---
 ## Cours
 ### 3ᵉannée
-[nom-du-cours](/teaching/yearX/2025-2026/nom-du-cours/)
+[nom-du-cours](...)
 ### 4ᵉannée
+[BS-4-BMMATH4-S1 – Biomathématiques 4 : Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
 ### 5ᵉannée
 
 ----
