@@ -8,9 +8,9 @@ toc_label: "Sommaire"
 ---
 ## Cours
 ### 3ᵉannée
-[nom-du-cours](...)
+[BS-3-S1-EC-MOLEVIV - UE1: Molécules du vivant et outils numériques](https://moodle.insa-lyon.fr/course/section.php?id=94908)
 ### 4ᵉannée
-[BS-4-BMMATH4-S1 – Biomathématiques 4 : Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
+[BS-4-BMMATH4-S1 – Biomathématiques 4: Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
 ### 5ᵉannée
 
 ----
