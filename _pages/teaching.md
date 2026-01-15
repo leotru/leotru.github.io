@@ -12,6 +12,11 @@ toc_label: "Sommaire"
 
 [BS-3-S1-EC-CELLULE - UE2: Exploration intégrée des cellules vivantes à l’ére du numérique](https://moodle.insa-lyon.fr/course/section.php?id=95149)
 
+[BS-3-S1-EC-ORGAVIV - UE3: Biologie des organismes et outils numériques](https://moodle.insa-lyon.fr/course/view.php?id=10440)
+
+[BS-3-S1-EC-ECOSYST - UE4: Ecosystèmes et outils numériques](https://moodle.insa-lyon.fr/course/section.php?id=95004) 
+(2025-2026: Je n'enseigne pas dans cette UE cette année.)
+
 ### 4ᵉannée
 [BS-4-BMMATH4-S1 – Biomathématiques 4: Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
 ### 5ᵉannée
