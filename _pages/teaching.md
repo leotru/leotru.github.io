@@ -8,6 +8,7 @@ toc_label: "Sommaire"
 ---
 ## Cours
 ### 3ᵉannée
+#### premier semestre
 [BS-3-S1-EC-MOLEVIV - UE1: Molécules du vivant et outils numériques](https://moodle.insa-lyon.fr/course/section.php?id=94908)
 
 [BS-3-S1-EC-CELLULE - UE2: Exploration intégrée des cellules vivantes à l’ére du numérique](https://moodle.insa-lyon.fr/course/section.php?id=95149)
@@ -17,7 +18,10 @@ toc_label: "Sommaire"
 [BS-3-S1-EC-ECOSYST - UE4: Ecosystèmes et outils numériques](https://moodle.insa-lyon.fr/course/section.php?id=95004) 
 (2025-2026: Je n'enseigne pas dans cette UE cette année.)
 
+#### deuxième semestre 
+[BS-3-S2-EC-DATABIO - UE: Analyse de données biologiques](https://moodle.insa-lyon.fr/course/section.php?id=99471)
 ### 4ᵉannée
+#### premier semestre
 [BS-4-BMMATH4-S1 – Biomathématiques 4: Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
 ### 5ᵉannée
 
