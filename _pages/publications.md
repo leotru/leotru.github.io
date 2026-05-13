@@ -11,13 +11,13 @@ layout: single
 
 📄 **Geometric Origin of Exact Mean-Field Reductions: Möbius Symmetry and the Lorentzian Ansatz**  
 *H. Berry, L. Trujillo*  
-[HAL](https://) 🔓 (Open Access)
+[hal-](https://) 🔓 (Open Access)
 
 ---
 
 📄 **Particle-Based Framework for Continuous Fields of Coupled Phase Oscillators: Exploring Spontaneous Local Synchronization**  
 *H. Berry, J.-M. Rye, L. Trujillo*  
-[arXiv:2507.04732](https://arxiv.org/abs/2507.04732) 🔓 (Open Access)
+[arXiv:2507.04732](https://arxiv.org/abs/2507.04732) [hal-05143109](https://hal.science/hal-05143109)🔓 (Open Access)
 
 ---
 
