@@ -9,9 +9,17 @@ layout: single
 
 ---
 
+📄 **Geometric Origin of Exact Mean-Field Reductions: Möbius Symmetry and the Lorentzian Ansatz**  
+*H. Berry, L. Trujillo*  
+[HAL](https://) 🔓 (Open Access)
+
+---
+
 📄 **Particle-Based Framework for Continuous Fields of Coupled Phase Oscillators: Exploring Spontaneous Local Synchronization**  
 *H. Berry, J.-M. Rye, L. Trujillo*  
 [arXiv:2507.04732](https://arxiv.org/abs/2507.04732) 🔓 (Open Access)
+
+---
 
 📄 **Evolving disorder and chaos enhances the wave speed of elastic waves**  
 *M. Ahumada, L. Trujillo, J.F. Marín*  
