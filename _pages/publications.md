@@ -9,15 +9,21 @@ layout: single
 
 ---
 
+📄 **Factor Maps, Chebyshev Correspondences, and Loss of Closure in Observed Expanding Difference Equations**  
+*A. Meyroneinc, L.Trujillo*  
+Preprint (2026)
+
+---
+
 📄 **Geometric Origin of Exact Mean-Field Reductions: Möbius Symmetry and the Lorentzian Ansatz**  
 *H. Berry, L. Trujillo*  
-[hal-](https://) 🔓 (Open Access)
+[hal-](https://) (2026)🔓 (Open Access)
 
 ---
 
 📄 **Particle-Based Framework for Continuous Fields of Coupled Phase Oscillators: Exploring Spontaneous Local Synchronization**  
 *H. Berry, J.-M. Rye, L. Trujillo*  
-[arXiv:2507.04732](https://arxiv.org/abs/2507.04732) [hal-05143109](https://hal.science/hal-05143109)🔓 (Open Access)
+[arXiv:2507.04732](https://arxiv.org/abs/2507.04732) [hal-05143109](https://hal.science/hal-05143109) (2025)🔓 (Open Access)
 
 ---
 
