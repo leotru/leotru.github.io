@@ -20,6 +20,9 @@ toc_label: "Sommaire"
 
 #### deuxième semestre 
 [BS-3-S2-EC-DATABIO - UE: Analyse de données biologiques](https://moodle.insa-lyon.fr/course/section.php?id=99471)
+
+[BS-3-S2-EC-PHYMAT - UE: Systèmes physiologiques et modélisation mathématique](https://moodle.insa-lyon.fr/course/view.php?id=10524)
+
 ### 4ᵉannée
 #### premier semestre
 [BS-4-BMMATH4-S1 – Biomathématiques 4: Équations aux Différences et Équations aux Dérivées Partielles](https://moodle.insa-lyon.fr/enrol/index.php?id=6527)
