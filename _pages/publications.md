@@ -31,7 +31,7 @@ Preprint (2026)
 *M. Ahumada, L. Trujillo, J.F. Marín*  
 *Journal of Statistical Mechanics: Theory and Experiment* (2025) 023302  
 [https://doi.org/10.1088/1742-5468/adac3d](https://doi.org/10.1088/1742-5468/adac3d)  
-[arXiv:2403.02113](https://doi.org/10.48550/arXiv.2403.02113) 🔓 (Open Access)
+[arXiv:2403.02113](https://doi.org/10.48550/arXiv.2403.02113) [hal-05629758v1](https://hal.science/hal-05629758v1)🔓 (Open Access)
 
 ---
 
