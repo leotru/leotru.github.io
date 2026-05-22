@@ -17,7 +17,7 @@ Preprint (2026)
 
 📄 **Geometric Origin of Exact Mean-Field Reductions: Möbius Symmetry and the Lorentzian Ansatz**  
 *H. Berry, L. Trujillo*  
-[hal-](https://) (2026)🔓 (Open Access)
+[hal-05622279](https://hal.science/hal-05622279) (2026)🔓 (Open Access)
 
 ---
 
